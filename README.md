@@ -1,0 +1,1 @@
+A simple grocery list using backbone and angular js
